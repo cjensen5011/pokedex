@@ -15,7 +15,7 @@
   height: 150px;
   margin: 10px auto;
   background-color: #585858;
-  border: 15px solid #dedede;
+  border: 12px solid #dedede;
   border-radius: 5px;
   color: #585858;
 }
@@ -37,4 +37,13 @@
 
 .data-char {
   font-size: 10px;
+}
+
+.logo {
+  width: 100%;
+  height: auto;
+}
+
+.logo-wrap {
+  width: 90%;
 }
